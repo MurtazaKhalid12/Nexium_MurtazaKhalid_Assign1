@@ -1,0 +1,44 @@
+{
+  "life": [
+    {
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "text": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    }
+  ],
+  "love": [
+    {
+      "text": "Love is composed of a single soul inhabiting two bodies.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "The best thing to hold onto in life is each other.",
+      "author": "Audrey Hepburn"
+    },
+    {
+      "text": "Where there is love there is life.",
+      "author": "Mahatma Gandhi"
+    }
+  ],
+  "success": [
+    {
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "text": "The only place where success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon"
+    }
+  ]
+}
